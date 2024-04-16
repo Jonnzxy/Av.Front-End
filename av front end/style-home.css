@@ -1,0 +1,41 @@
+#banner {
+	width:100%;
+}
+
+.principal{
+	background: #0093b3;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #0093b3;
+}
+
+.itens {
+	font-style: sans-serif
+}
+
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
